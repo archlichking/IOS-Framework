@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'QEFramework' target in the 'QEFramework' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
